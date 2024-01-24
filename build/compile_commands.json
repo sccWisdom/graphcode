@@ -1,0 +1,82 @@
+[
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\main.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/main.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\util.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\util.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/util.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\sort.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\sort.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/sort.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\graph.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\graph.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/graph.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\ne_partitioner.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\ne_partitioner.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/ne_partitioner.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\sne_partitioner.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\sne_partitioner.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/sne_partitioner.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\random_partitioner.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\random_partitioner.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/random_partitioner.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\hsfc_partitioner.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\hsfc_partitioner.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/hsfc_partitioner.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\dbh_partitioner.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\dbh_partitioner.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/dbh_partitioner.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\conversions.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\conversions.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/conversions.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\main.dir\\src\\shuffler.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\shuffler.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/shuffler.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/graph2edgelist.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\graph2edgelist.dir\\src\\graph2edgelist.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\graph2edgelist.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/graph2edgelist.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/graph2edgelist.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\graph2edgelist.dir\\src\\util.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\util.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/util.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/graph2edgelist.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\graph2edgelist.dir\\src\\conversions.cpp.obj -c F:\\图系统源码\\edgepart-master\\src\\conversions.cpp",
+  "file": "F:/图系统源码/edgepart-master/src/conversions.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build/threadpool11",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -Dthreadpool11_EXPORTING @CMakeFiles/threadpool11.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\threadpool11.dir\\src\\pool.cpp.obj -c F:\\图系统源码\\edgepart-master\\threadpool11\\src\\pool.cpp",
+  "file": "F:/图系统源码/edgepart-master/threadpool11/src/pool.cpp"
+},
+{
+  "directory": "F:/图系统源码/edgepart-master/build/threadpool11",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -Dthreadpool11_EXPORTING @CMakeFiles/threadpool11.dir/includes_CXX.rsp  -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles\\threadpool11.dir\\src\\worker.cpp.obj -c F:\\图系统源码\\edgepart-master\\threadpool11\\src\\worker.cpp",
+  "file": "F:/图系统源码/edgepart-master/threadpool11/src/worker.cpp"
+}
+]

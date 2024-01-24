@@ -1,0 +1,2 @@
+D:\MinGW\mingw64\bin\ar.exe qc libthreadpool11.a CMakeFiles/threadpool11.dir/src/pool.cpp.obj CMakeFiles/threadpool11.dir/src/worker.cpp.obj
+D:\MinGW\mingw64\bin\ranlib.exe libthreadpool11.a

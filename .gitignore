@@ -1,0 +1,4 @@
+release/
+debug/
+*.pyc
+.DS_Store
